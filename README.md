@@ -6,7 +6,7 @@
     <img src="https://www.saggiamente.com/wp-content/uploads/2019/08/newlogoandroid.png" alt="Logo" width="120" height="80">
   </a>
 
-  <h1 align="center">HUAWEI FITNESS WATCH OPTIMIZATION</h1>
+  <h1 align="center">TRANSPORT TRACKER</h1>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -24,6 +24,9 @@
     </li>
     <li>
       <a href="#project-plan">Project plan</a>
+    </li>
+      <li>
+      <a href="#future-plans">Future Plans</a>
     </li>
     <li>
       <a href="#the-team">The Team</a>
