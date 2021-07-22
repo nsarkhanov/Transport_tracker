@@ -1,4 +1,4 @@
-# Building-Week-2
+# BuildWeek-2
 
 <!-- PROJECT LOGO -->
 <p align="center">
